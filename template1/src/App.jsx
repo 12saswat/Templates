@@ -1,5 +1,5 @@
 import React from "react";
-import Templ1 from "./components/templ1";
+import Templ1 from "./components/Templ1";
 
 const App = () => {
   return (
